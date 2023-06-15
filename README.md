@@ -1,2 +1,2 @@
 # college-practice
-Сайт, який мені я свторив на практиці
+The site that I created for myself in practice

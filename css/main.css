@@ -1,6 +1,6 @@
 @font-face {
 	font-family: 'BebasNeue';
-	src: url('/assets/AA-BebasNeue.ttf') format('ttf');
+	src: url('assets/AA-BebasNeue.ttf') format('ttf');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -14,7 +14,7 @@
 
 
 .background-hero {
-	background: no-repeat url("/assets/756425177419794.jpg");
+	background: no-repeat url("assets/756425177419794.jpg");
     background-size: cover;
 	height: 95vh;
 }

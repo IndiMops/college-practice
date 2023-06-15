@@ -1,0 +1,27 @@
+@font-face {
+	font-family: 'BebasNeue';
+	src: url('/assets/AA-BebasNeue.ttf') format('ttf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'heuristica',sans-serif!important;
+}
+
+
+.background-hero {
+	background: no-repeat url("/assets/756425177419794.jpg");
+    background-size: cover;
+	height: 95vh;
+}
+
+.overlay {
+	height: 95vh;
+	width: 100vw;
+	background: rgba(0,0,0,.6);
+	position: absolute;
+}
